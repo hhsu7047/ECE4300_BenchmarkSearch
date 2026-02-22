@@ -1,5 +1,5 @@
 # ECE4300_BenchmarkSearch
-## Harrison Hsu and Kevin Perez
+### Harrison Hsu and Kevin Perez
 Benchmark search C++ programs 
 
 
